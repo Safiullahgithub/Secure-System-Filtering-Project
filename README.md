@@ -44,6 +44,10 @@ This project aims to enhance the security of our organization's system by using 
 
 # Screen Shot of the Outcomes:
 ![task1](pppprrl.png)
+![task2](pppprr.png)
+
+
+
 
 
 
